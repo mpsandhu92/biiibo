@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+    <g id="prefix__search" style="opacity:.5">
+        <g id="prefix__Rectangle_149" data-name="Rectangle 149" style="fill:#fff;stroke:#707070;opacity:0">
+            <path d="M0 0H55V55H0z" style="stroke:none"/>
+            <path d="M0.5 0.5H54.5V54.5H0.5z" style="fill:none"/>
+        </g>
+        <g id="prefix__list_1_" data-name="list (1)" transform="translate(1 9)">
+            <g id="prefix__Group_174" data-name="Group 174" transform="translate(13.052 16.892)">
+                <g id="prefix__Group_173" data-name="Group 173">
+                    <path id="prefix__Path_433" d="M163.03 236h-36.66a2.108 2.108 0 0 0 0 4.217h36.66a2.108 2.108 0 0 0 0-4.217z" data-name="Path 433" transform="translate(-124.262 -236)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_176" data-name="Group 176" transform="translate(13.052 1.078)">
+                <g id="prefix__Group_175" data-name="Group 175">
+                    <path id="prefix__Path_434" d="M163.03 86h-36.66a2.108 2.108 0 1 0 0 4.217h36.66a2.108 2.108 0 0 0 0-4.217z" data-name="Path 434" transform="translate(-124.262 -86)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_178" data-name="Group 178" transform="translate(13.052 32.705)">
+                <g id="prefix__Group_177" data-name="Group 177">
+                    <path id="prefix__Path_435" d="M163.03 386h-36.66a2.108 2.108 0 1 0 0 4.217h36.66a2.108 2.108 0 0 0 0-4.217z" data-name="Path 435" transform="translate(-124.262 -386)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_180" data-name="Group 180">
+                <g id="prefix__Group_179" data-name="Group 179">
+                    <circle id="prefix__Ellipse_21" cx="3" cy="3" r="3" data-name="Ellipse 21"/>
+                </g>
+            </g>
+            <g id="prefix__Group_182" data-name="Group 182" transform="translate(0 16)">
+                <g id="prefix__Group_181" data-name="Group 181">
+                    <circle id="prefix__Ellipse_22" cx="3" cy="3" r="3" data-name="Ellipse 22"/>
+                </g>
+            </g>
+            <g id="prefix__Group_184" data-name="Group 184" transform="translate(0 32)">
+                <g id="prefix__Group_183" data-name="Group 183">
+                    <circle id="prefix__Ellipse_23" cx="3" cy="3" r="3" data-name="Ellipse 23"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+    <g id="prefix__search" transform="translate(.287)" style="opacity:.5">
+        <g id="prefix__Rectangle_149" data-name="Rectangle 149" style="fill:#fff;stroke:#707070;opacity:0">
+            <path d="M0 0H55V55H0z" style="stroke:none" transform="translate(-.287)"/>
+            <path d="M0.5 0.5H54.5V54.5H0.5z" style="fill:none" transform="translate(-.287)"/>
+        </g>
+        <path id="prefix__Path_220" d="M15.849 31.305A15.653 15.653 0 1 1 31.5 15.653a15.67 15.67 0 0 1-15.651 15.652zm0-28.338a12.685 12.685 0 1 0 12.685 12.686A12.7 12.7 0 0 0 15.849 2.967zm21.894 34.609a1.484 1.484 0 0 0 0-2.1L31.1 28.839a1.484 1.484 0 1 0-2.1 2.1l6.639 6.639a1.484 1.484 0 0 0 2.1 0z" data-name="Path 220" transform="translate(7.084 8.267)"/>
+    </g>
+</svg>
